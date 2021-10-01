@@ -1,2 +1,2 @@
-# catbyart.github.io
+# catbyart
 wip website for painted extravagances
